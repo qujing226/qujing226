@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hello there! I'm Yuna Zhao. 👋🤓</h2>
+<h2 align="center">Hello there! I'm Eugene Zhao. 👋🤓</h2>
 <p align="center">I'm currently a student pursuing my Bachelor of Network Project. I'm passionate about block chain and cyber security.  I've started exploring the field of web 3.0 as well ✨ and hope to contribute to that field as well. 
 </p>
 
