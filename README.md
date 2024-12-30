@@ -12,16 +12,18 @@
   When I'm not developing and coding, you can find me watching Netflix, playing piano, or listening to music. Playing football ⚽️ was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peninsula12&label=Profile%20views&color=0e75b6&style=flat" alt="peninsula12" />
-</p>
+<br>
 
 <p align="center">
+  <a href="https://github.com/peninsula12">
+    <img src="https://komarev.com/ghpvc/?username=peninsula12&label=Profile%20views&color=0e75b6&style=flat" alt="peninsula12" />  
+  </a>
+   
   <a href="https://github.com/peninsula12">
     <img src="https://img.shields.io/github/followers/peninsula12?label=Follow&style=social" alt="GitHub Followers">
   </a>
   <a href="mailto:eugenezhao@example.com">
-    <img src="https://img.shields.io/badge/Email-eugenezhao@example.com-red" alt="Email Me">
+    <img src="https://img.shields.io/badge/qujing226@gmail.com-red" alt="Email Me">
   </a>
 </p>
 
