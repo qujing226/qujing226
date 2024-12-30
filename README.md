@@ -1,10 +1,6 @@
 <h2 align="center">Hello there! I'm Eugene Zhao. 👋🤓</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/peninsula12/peninsula12/master/animated-welcome.gif" alt="Welcome Animation">
-</p>
-
-<p align="center">
   I'm currently a student pursuing my Bachelor of Network Project. I'm passionate about blockchain and cybersecurity. I've started exploring the field of Web 3.0 ✨ and hope to contribute to that field as well.
 </p>
 
