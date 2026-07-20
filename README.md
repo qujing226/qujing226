@@ -28,7 +28,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qujing226&theme=vue" alt="GitHub Activity Graph">
-</p>
