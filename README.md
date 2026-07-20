@@ -1,7 +1,7 @@
-<h2 align="center">Hello there! I'm Eugene Zhao. 👋🤓</h2>
+<h2 align="center">Eugene Zhao</h2>
 
 <p align="center">
-  It all starts with `func HandShake()` and it all ends with `func Close()`
+  It all starts with func HandShake()
 </p>
 
 <p align="center">
