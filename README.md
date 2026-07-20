@@ -1,23 +1,14 @@
 <h2 align="center">Hello there! I'm Eugene Zhao. 👋🤓</h2>
 
 <p align="center">
-  I'm currently a student pursuing my Bachelor of Network Project. I'm passionate about blockchain and cybersecurity. I've started exploring the field of Web 3.0 ✨ and hope to contribute to that field as well.
+  It all starts with `func HandShake()` and it all ends with `func Close()`
 </p>
-
-<p align="center">
-  When I'm not developing and coding, you can find me watching Netflix, playing piano, or listening to music. Playing football ⚽️ was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂.
-</p>
-
-<br>
 
 <p align="center">
   <a href="https://github.com/qujing226">
     <img src="https://komarev.com/ghpvc/?username=qujing226&label=Profile%20views&color=0e75b6&style=flat" alt="qujing226" />  
   </a>
    
-  <a href="https://github.com/qujing226">
-    <img src="https://img.shields.io/github/followers/qujing226?label=Follow&style=social" alt="GitHub Followers">
-  </a>
   <a href="mailto:eugenezhao@example.com">
     <img src="https://img.shields.io/badge/qujing226@gmail.com-red" alt="Email Me">
   </a>
